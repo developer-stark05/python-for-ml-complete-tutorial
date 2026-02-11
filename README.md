@@ -143,5 +143,3 @@ os module (OS interaction).
 sys module (System parameters).
 
 shutil module (File operations like copy/move).
-
-[python day 1.ipynb](https://github.com/user-attachments/files/25237900/python.day.1.ipynb)
